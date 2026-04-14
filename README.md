@@ -5,4 +5,5 @@
 * Python: анализ данных с Pandas https://stepik.org/cert/2695302
 * Визуализация данных и основы работы в Tableau https://stepik.org/cert/2657162
 * Т-Банк: Анализ данных https://cloud.mail.ru/public/ZGpb/gFzNQ2Z4M
+* BI аналитик/Data engineer: быстрый старт: https://stepik.org/cert/3216069
 * Lactalis: Рекомендация по итогам стажировки в команде DWH/BI

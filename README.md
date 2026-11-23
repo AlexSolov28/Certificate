@@ -7,3 +7,4 @@
 * Т-Банк: Анализ данных https://cloud.mail.ru/public/ZGpb/gFzNQ2Z4M
 * BI аналитик/Data engineer: быстрый старт: https://stepik.org/cert/3216069
 * Lactalis: Рекомендация по итогам стажировки в команде DWH/BI
+* МТС: ИИ-инструменты
